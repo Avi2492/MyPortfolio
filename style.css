@@ -146,10 +146,10 @@ a {
 
 .home .home-content .content span {
   font-size: 2.5rem;
-  color: var(--orange);
+  color: var(--black);
 }
 
-.home .home-content .content h1 {
+.home .home-content .content h1 span{
   font-family: "Poppins", sans-serif;
   font-size: 5rem;
   color: var(--black);
