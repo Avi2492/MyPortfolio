@@ -149,7 +149,7 @@ a {
   color: var(--orange);
 }
 
-.home .home-content .content h3 {
+.home .home-content .content h1 {
   font-family: "Poppins", sans-serif;
   font-size: 5rem;
   color: var(--black);
